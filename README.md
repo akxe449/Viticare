@@ -1,6 +1,9 @@
 # VitiCare
 
-**An AI-powered longitudinal monitoring platform for vitiligo — think "Fitbit for vitiligo."**
+**An AI-powered longitudinal monitoring platform for vitiligo**
+
+🔗 Live Demo: https://your-app.onrender.com
+
 
 ![Landing page](screenshots/landing.png)
 
